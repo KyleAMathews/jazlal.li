@@ -1,5 +1,5 @@
-# gatsby-starter-blog
-Gatsby starter for creating a blog
+# My personal site
 
-Install this starter (assuming Gatsby is installed) by running from your CLI:
-`gatsby new gatsby-blog https://github.com/gatsbyjs/gatsby-starter-blog`
+[jazlal.li](http://jazlal.li)
+
+Built using [gatsby](https://github.com/gatsbyjs/gatsby), hosted on [surge.sh](https://surge.sh/).
