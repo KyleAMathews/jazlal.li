@@ -7,6 +7,7 @@ import DocumentTitle from 'react-document-title';
 import access from 'safe-access';
 import { prefixLink } from 'gatsby-helpers';
 import { rhythm, fontSizeToMS } from 'utils/typography'
+import { config } from 'config';
 
 class Index extends React.Component {
 
@@ -50,7 +51,7 @@ class Index extends React.Component {
       });
 
     return (
-      <DocumentTitle title="Blog">
+      <DocumentTitle title={`${config.blogTitle}`}>
         <ul className="posts">
           {pageLinks}
         </ul>

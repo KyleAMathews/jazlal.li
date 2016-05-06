@@ -42,17 +42,11 @@ class Header extends React.Component {
         <Nav />
 
         <div className="nav-social">
-          <a href="http://github.com/jazlalli" target="_blank" className="nav-social__icon">
-            <img alt="GitHub Icon" title="View my GitHub profile" src="/github.svg" />
-          </a>
+          <a href="http://github.com/jazlalli" target="_blank" className="nav-social__icon github" rel="noopener noreferrer"></a>
 
-          <a href="http://twitter.com/jazlalli1" target="_blank" className="nav-social__icon">
-            <img alt="Twitter Icon" title="View my Twitter profile" src="/twitter.svg"/>
-          </a>
+          <a href="http://twitter.com/jazlalli1" target="_blank" className="nav-social__icon twitter" rel="noopener noreferrer"></a>
 
-          <a href="mailto:jazlalli@hotmail.com" className="nav-social__icon">
-            <img alt="Email Icon" title="Email me" src="/email.svg" />
-          </a>
+          <a href="mailto:jazlalli@hotmail.com" className="nav-social__icon email"></a>
         </div>
       </div>
     );

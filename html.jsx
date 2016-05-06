@@ -26,6 +26,7 @@ class Html extends React.Component {
 
           <title>{this.props.title}</title>
           <link rel="shortcut icon" href="favicon.png"/>
+
           {cssLink}
 
           <GoogleFont />
