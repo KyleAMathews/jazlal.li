@@ -3,6 +3,7 @@ title: An Update
 date: "2016-05-05"
 layout: post
 path: "/blog/an-update/"
+readNext: "/blog/working-with-humans/"
 ---
 
 > Since my last post, I’ve changed job twice...
