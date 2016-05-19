@@ -25,7 +25,7 @@ class Html extends React.Component {
           <meta name='viewport' content='user-scalable=no width=device-width, initial-scale=1.0 maximum-scale=1.0'/>
 
           <title>{this.props.title}</title>
-          <link rel="shortcut icon" href="favicon.png"/>
+          <link rel="shortcut icon" href="/favicon.png"/>
 
           {cssLink}
 
