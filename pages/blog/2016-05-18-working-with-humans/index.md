@@ -49,7 +49,7 @@ Regardless of how it happens, undermining this safety net will  degrade the perf
 
 I’d like to start with another quote. I find that it helps me focus my thoughts when I start to write. It also makes me seem wise and learned, of which I am neither, but I like the idea of (excuse me while I go buy a pipe and cardigan).
 
-![A (possibly) wise and learned individual.](http://i1137.photobucket.com/albums/n504/tingsic/pipecardigan.jpg)
+![A (possibly) wise and learned individual.](https://s-media-cache-ak0.pinimg.com/236x/2e/67/e1/2e67e1a0075f08027406a9069378b1cc.jpg)_Figure 1 - A (possibly) wise and learned individual._
 
 > In time, every post tends to be occupied by an employee who is incompetent to carry out its duties
 >
