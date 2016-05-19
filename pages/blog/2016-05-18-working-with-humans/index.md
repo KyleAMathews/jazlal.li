@@ -1,6 +1,6 @@
 ---
 title: Working with Humans
-date: "2016-05-18"
+date: "2016-05-19"
 layout: post
 path: "/blog/working-with-humans/"
 ---
