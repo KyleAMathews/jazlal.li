@@ -1,6 +1,6 @@
 ---
 title: Thoughts on Tech Interviews
-date: "2016-05-01"
+date: "2016-06-01"
 layout: post
 path: "/blog/thoughts-on-tech-interviews/"
 ---
