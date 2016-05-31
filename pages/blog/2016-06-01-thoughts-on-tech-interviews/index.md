@@ -33,7 +33,7 @@ I am not averse to asking candidates to complete a technical exercise. This shou
 That’s what the interview is for. If they are able to clearly explain the project’s background, how it was carried out, the technology choices made along the way, then I think you’re on safe ground. But also, assuming that the candidate will lie sounds awfully adversarial. 🤔
 
 2. Previous work uses a different tech stack
-Are you kidding? If someone has experience in a particular tech stack/language, and is taking the decision to move to another, that shows a whole bunch of traits that you surely want on your team? Broader perspective, curiosity, drive, desire to learning new things… the list goes on.
+Are you kidding? If someone has experience in a particular tech stack/language, and is taking the decision to move to another, that shows a whole bunch of traits that you surely want on your team? Broader perspective, curiosity, drive, desire to learning new things… the list goes on. This boils down to long vs short term outlook, though if you're not hiring a freelancer, it should always be long.
 
 3. It’s not an even playing field. The same coding exercise for everyone is more objective
 We know that standardised testing doesn’t work. People are complex and varied, and you are trying to hire from that pool (hopefully). Acknowledge that diversity and work with it. There is no short-cut, so why take the risk when we know that a [bad hire is far more costly than no hire](https://www.linkedin.com/pulse/20130716151946-2967511-the-high-costs-of-a-bad-hire-and-how-to-avoid-them).
