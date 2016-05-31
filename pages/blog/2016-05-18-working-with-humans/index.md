@@ -3,6 +3,7 @@ title: Working with Humans
 date: "2016-05-19"
 layout: post
 path: "/blog/working-with-humans/"
+readNext: "/blog/thoughts-on-tech-interviews/"
 ---
 
 There is a famous quote about hard things in Computer Science
