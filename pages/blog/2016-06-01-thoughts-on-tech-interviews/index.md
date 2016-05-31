@@ -30,7 +30,7 @@ I’ll admit, this is a tough one. Opinions on how to gauge technical capability
 I am not averse to asking candidates to complete a technical exercise. This should be done before a face-to-face interview, and can be used as an anchor for the conversation. However, before settling on that approach by default, I would also consider using their previous professional work as a means of evaluating their ability ([not what’s on their personal GitHub!](https://blog.jcoglan.com/2013/11/15/why-github-is-not-your-cv/)). If they are willing, and are legally allowed, asking to see what they’ve worked on in the past is the truest indicator of what they are capable of producing. You also get to hear how they communicate in a professional context. I have encountered some concerns that get raised to this approach though;
 
 1. What if they overstate their involvement?
-That’s what the interview is for. If they are able to clearly explain the project’s background, how it was carried out, the technology choices made along the way, then I think you’re on safe ground. But also, assuming that the candidate will lie sounds awfully adversarial. 😛
+That’s what the interview is for. If they are able to clearly explain the project’s background, how it was carried out, the technology choices made along the way, then I think you’re on safe ground. But also, assuming that the candidate will lie sounds awfully adversarial. 🤔
 
 2. Previous work uses a different tech stack
 Are you kidding? If someone has experience in a particular tech stack/language, and is taking the decision to move to another, that shows a whole bunch of traits that you surely want on your team? Broader perspective, curiosity, drive, desire to learning new things… the list goes on.
