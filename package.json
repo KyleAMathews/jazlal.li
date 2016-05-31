@@ -4,10 +4,11 @@
   "description": "Starter Gatsby Blog",
   "main": "n/a",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "prestart": "nvm use",
     "start": "gatsby develop",
     "deploy": "gatsby build && cp CNAME public/ && surge ./public"
   },
+  "engine": "node 4.2.3",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
