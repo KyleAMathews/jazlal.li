@@ -4,7 +4,13 @@ const options = {
   "baseFontSize": "18px",
   "baseLineHeight": "28px",
   "modularScales": [
-    "major third"
+    {
+      scale: "double octave",
+    },
+    {
+      scale: "major tenth",
+      maxWidth: '500px',
+    },
   ],
   "googleFonts": [
     {
@@ -13,7 +19,6 @@ const options = {
         "100",
         "400",
         "700",
-        "900"
       ]
     },
     {
@@ -22,18 +27,8 @@ const options = {
         "100",
         "400",
         "700",
-        "900"
       ]
     },
-    {
-      "name": "Lato",
-      "styles": [
-        "100",
-        "400",
-        "700",
-        "900"
-      ]
-    }
   ],
   "headerFontFamily": "Oswald",
   "headerFont": "Oswald",
